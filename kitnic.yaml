@@ -1,0 +1,4 @@
+summary: The Bus Pirate is an open source hacker multi-tool that talks to electronic stuff.
+site: http://dangerousprototypes.com/docs/Bus_Pirate
+color: red
+gerbers: hardware/v3.6/BusPirate-v3.6-SSOP-gerbers/
